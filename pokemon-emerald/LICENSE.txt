@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 Pizza Pizza (https://codepen.io/Pizza-Pizza-the-selector/pen/YPPgQvz)
+Copyright (c) 2025 Pizza Pizza (https://codepen.io/Pizza-Pizza-the-selector/pen/xbbBrQB)
 Fork of an original work Pokemon Emerald (https://codepen.io/pilot92/pen/BaEMGOo)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
